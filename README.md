@@ -3,3 +3,4 @@ I began by analyzing Kickstarter Campaign data to uncover trends and generate in
 
 ## Objective
 To provide visual feedback to Louise that will help her establish a realistic goal, timeline, and location for her Kickstarter campaign, so that her upcoming play Fever, can be successful.
+![Figure 1. All Category Outcomes-United States](https://github.com/skaram16/kickstarter_analysis/blob/main/Parent%20Category%20Comparisions.png)
