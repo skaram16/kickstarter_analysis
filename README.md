@@ -41,7 +41,7 @@ Louise was also looking to musicals in Europe. The blox plot below is includes h
 
 ## Limitations Of The Data
 
-  * The data that was wbeing analyzed is from 2014-2016. So that we could have a clearer and better understanding and ability to have more accurate information for Louise, data from more current/recent years should be used.
+  * The data that was being analyzed in the 1st sheet ("Kickstarter") is from the years 2014-2016. So that we could have a clearer and better understanding and ability to have more accurate information for Louise, data from more current/recent years should be used.
 
   *  To have a more detailed and "better" analysis, we should ask her how long does she plan to have the play running or does she want to keep her campaign live.
 
