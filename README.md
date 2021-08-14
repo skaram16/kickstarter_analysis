@@ -14,4 +14,25 @@ The Descriptive Statistics tab, found in [Kickstarter Analysis](https://github.c
 - Failed campaigns have much higher goals than successful campaigns do.
 - Louise is asking for more than twice the average successful goal, which is not a good way to start this campaign.
 
-ALthough Plays have been the most successful over the observed timeframe, Louise needs to look into more information to better determine her plan for success for the play. The "Challenge" section below will utilize this data to determine if other Kickstarter campaigns were able to come close to their fundrasing goal in a short amount of time, as Louise's play,*Fever*, did.
+Although "PLAYS" have been the most successful over the observed timeframe, Louise needs to look into more information to better determine her plan for success for the play. The section below will utilize the data to determine if other Kickstarter campaigns were able to come close to their fundrasing goal in a short amount of time, as Louise's play, *Fever*, did and if they were successful.
+
+
+## Challenge
+
+To determine if other Kickstarter campaigns were able to come close to their fundrasing goals in a short amount of time, the two main factors that I analyzed were:
+
+  1. Outcomes Based on Launch Date
+  2. Outcomes Based on Goals
+  
+The line graph below shows a few important factors that will help Louise in her campaign: 
+  * The length of the campaign and its' launch date do play a critical role in campaign success.
+    - May and June are the two best months to launch
+    - December is the worst month for launch
+![Outcomes Based on Launch Date](https://github.com/skaram16/kickstarter_analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.png)
+
+Louise was also looking to musicals in Europe. The blox plot below is includes helpful information for Louise for her next endeavor. 
+
+![Great Britain Musical Outcomes](https://github.com/skaram16/kickstarter_analysis/blob/main/BoxandWhiskerPlot.png) 
+
+ * The takeaway from the box and whisker plot was proof that failed kickstarters were unsuccessful for reasons other than asking for too much money by looking at the mean and median pledged amounts and how much lower they were to the actual successful pledges.
+ * Louise should try to start the play by producing it for less than the 4,000 Euro because more than half of the campaigns that were successful had goals that were less than 2,000 Euro.
