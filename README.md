@@ -36,3 +36,14 @@ Louise was also looking to musicals in Europe. The blox plot below is includes h
 
  * The takeaway from the box and whisker plot was proof that failed kickstarters were unsuccessful for reasons other than asking for too much money by looking at the mean and median pledged amounts and how much lower they were to the actual successful pledges.
  * Louise should try to start the play by producing it for less than the 4,000 Euro because more than half of the campaigns that were successful had goals that were less than 2,000 Euro.
+
+
+
+## Limitations Of The Data
+
+  * The data that was wbeing analyzed is from 2014-2016. So that we could have a clearer and better understanding and ability to have more accurate information for Louise, data from more current/recent years should be used.
+
+  *  To have a more detailed and "better" analysis, we should ask her how long does she plan to have the play running or does she want to keep her campaign live.
+
+  *  By looking more into the backers and how many of them are still active or if they donated specifically for Louise's interests and location would be really important for a more concise analysis. 
+  
