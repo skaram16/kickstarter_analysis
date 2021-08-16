@@ -10,12 +10,10 @@ Figure 1 shows us that out of all the categories in the United States, Kickstart
 ![Figure 2. Subcategory Outcomes-United States](https://github.com/skaram16/kickstarter_analysis/blob/main/Subcategory%20Outcomes.png)
 Figure 2 shows more detail on the subcategory outcome of "THEATER" and its' related values for Kickstarter campaigns for "PLAYS" in the United States.
 
-The Descriptive Statistics tab, found in [Kickstarter Analysis](https://github.com/skaram16/kickstarter_analysis/blob/main/Kickstarter.xlsx), holds even more helpful information for Louise and her campaign preparation. The data tells us a couple things:
 - Failed campaigns have much higher goals than successful campaigns do.
 - Louise is asking for more than twice the average successful goal, which is not a good way to start this campaign.
 
 Although "PLAYS" have been the most successful over the observed timeframe, Louise needs to look into more information to better determine her plan for success for the play. The section below will utilize the data to determine if other Kickstarter campaigns were able to come close to their fundrasing goal in a short amount of time, as Louise's play, *Fever*, did and if they were successful.
-
 
 ## Challenge
 
@@ -29,6 +27,12 @@ The line graph below shows a few important factors that will help Louise in her 
     - May and June are the two best months to launch
     - December is the worst month for launch
 ![Outcomes Based on Launch Date](https://github.com/skaram16/kickstarter_analysis/blob/main/Outcomes%20Based%20on%20Launch%20Date.png)
+
+Lastly, we looked at outcomes based on goals and if there is a correlation to success. See the graph below.
+
+![Play Outcomes Based on Goal](https://github.com/skaram16/kickstarter_analysis/blob/main/Outcome%20vs.%20Goals.png)
+
+The figure above is very helpful is showing Louise visually that having a goal that is too high or low can impact the outcome of the campaign. This shows the information in a more concise manner and helps us to see and understand the Box and Whisker Plot with more clarity.
 
 Louise was also looking to musicals in Europe. The blox plot below is includes helpful information for Louise for her next endeavor. 
 
